@@ -13,7 +13,8 @@
     "emitDeclarationOnly": true,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
-    "noImplicitAny": true
+    "noImplicitAny": true,
+    "types": ["@webgpu/types"]
   },
   "exclude": [
     "dist",
