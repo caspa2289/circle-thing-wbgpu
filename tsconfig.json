@@ -17,9 +17,10 @@
     "types": ["@webgpu/types"]
   },
   "exclude": [
+    "docs",
     "dist",
     "node_modules",
     ".parcel-cache",
-    ".husky",
+    ".husky"
   ]
 }
